@@ -80,10 +80,10 @@ SARA AI-KMS is an AI-powered knowledge management chatbot developed for SARA Lea
 ## Contact
 For questions or support:
 
-- **Email:** shafay11august@gmail.com
-- **GitHub:** [@joyo11](https://github.com/joyo11)
+- **Email:** joyofuzail@gmail.com
+- **GitHub:** [@joyo11](https://github.com/FuzailM10)
 
 ---
 
 ## License
-Copyright (c) 2025 Mohammad Shafay Joyo 
+Copyright (c) 2025 Muhammad Fuzail
